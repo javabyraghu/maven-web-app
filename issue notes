@@ -1,0 +1,1 @@
+aws eks update-kubeconfig --name cluster-name-test --region ap-south-1

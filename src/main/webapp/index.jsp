@@ -6,7 +6,7 @@
 <a href="https://facebook.com/groups/thejavatemple">Click Here To Website</a>
 
 <br/>
-<h1> TEST-IT IS NEW LINE</h1>
-<h2> WELCOME TO ALL </h2>
+<h1>IT IS NEW LINE</h1>
+
 </body>
 </html>
